@@ -34,8 +34,8 @@ Projects coded on Matlab. They were done for the Machine Learning certification 
 -  SVM and PCA project
 -  Spam email classification 
 -  KNN project
--  Anomaly detector
--  Recommendation System
+-  Anomaly detector, using Gaussian distribution 
+-  Recommendation System, using colaborative filtering 
 #### Wikipedia_data_crawler_NLP: 
 Script to extract data from Wikipedia and get the frequency of words. 
 #### Tweet_crawler
