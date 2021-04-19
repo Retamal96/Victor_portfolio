@@ -4,6 +4,8 @@ Here I'm showing all the skills gained and projects I created in my coding journ
 
 Let me give you a brief description of every project:
 
+#### Breast_cancer NN for clasification:
+A Neural Network I coded from scratch without any third party library to gain deeper understanding of the foundations
 #### Computational_methods_Final_test;
 This is a Script I made to pass the final test of the Computational_methods subject. The key point here was to extract insights from Ozone data. I couldn't use libraries except Numpy to calculate percentiles.
 #### Core_python_uses:
